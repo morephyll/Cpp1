@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“175.178.254.28”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  server.cpp
+E:\C++Home\ChatServer\server.cpp(105,34): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+E:\C++Home\ChatServer\server.cpp(105,34): warning :      int n = read(fd, buffer, 1024);
+E:\C++Home\ChatServer\server.cpp(105,34): warning :                                   ^
+  正在链接对象
+  ChatServer.vcxproj -> E:\C++Home\ChatServer\bin\x64\Debug\ChatServer.out

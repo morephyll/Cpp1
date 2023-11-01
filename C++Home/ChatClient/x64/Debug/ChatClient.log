@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\C++Home\ChatClient\源.cpp(19,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++Home\ChatClient\源.cpp(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ChatClient.vcxproj -> E:\C++Home\ChatServer\x64\Debug\ChatClient.exe
